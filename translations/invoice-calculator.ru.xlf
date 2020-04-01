@@ -8,11 +8,27 @@
             </trans-unit>
             <trans-unit id="default">
                 <source>default</source>
-                <target>Почасовая основа (стандартная)</target>
+                <target>По-умолчанию: одна запись на единицу времени</target>
             </trans-unit>
             <trans-unit id="short">
                 <source>short</source>
-                <target>Почасовая основа - сокращенная версия (только одна запись)</target>
+                <target>Почасовая: итоговая сумма, всего одна запись</target>
+            </trans-unit>
+            <trans-unit id="user">
+                <source>user</source>
+                <target>Пользователь: одна запись на пользователя</target>
+            </trans-unit>
+            <trans-unit id="activity">
+                <source>activity</source>
+                <target>Активность: одна запись на активность</target>
+            </trans-unit>
+            <trans-unit id="project">
+                <source>project</source>
+                <target>Проект: однак запись на проект</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>date</source>
+                <target>Дата: одна запись на день (используется дата начала)</target>
             </trans-unit>
         </body>
     </file>

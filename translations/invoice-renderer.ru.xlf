@@ -8,11 +8,35 @@
             </trans-unit>
             <trans-unit id="default">
                 <source>default</source>
-                <target>Счет (стандартный)</target>
+                <target>Счет (по-умолчанию)</target>
             </trans-unit>
             <trans-unit id="timesheet">
                 <source>timesheet</source>
                 <target>Табель учета времени</target>
+            </trans-unit>
+            <trans-unit id="freelancer">
+                <source>freelancer</source>
+                <target>Фрилансер</target>
+            </trans-unit>
+            <trans-unit id="open-spreadsheet">
+                <source>open-spreadsheet</source>
+                <target>Рассчитать Spreadsheet</target>
+            </trans-unit>
+            <trans-unit id="spreadsheet">
+                <source>spreadsheet</source>
+                <target>Excel</target>
+            </trans-unit>
+            <trans-unit id="export">
+                <source>export</source>
+                <target>Экспорт данных</target>
+            </trans-unit>
+            <trans-unit id="company">
+                <source>company</source>
+                <target>Счёт компании</target>
+            </trans-unit>
+            <trans-unit id="help.upload">
+                <source>help.upload</source>
+                <target>Внимание: существующие файлы будут перезаписаны. Допустимые типы файлов: DOCX, ODS, XLSX.</target>
             </trans-unit>
         </body>
     </file>
