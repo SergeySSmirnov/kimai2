@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="ru" datatype="plaintext" original="email.en.xlf">
+        <body>
+            <trans-unit id="button_copy_url_to_browser">
+                <source>button_copy_url_to_browser</source>
+                <target>Если кнопка не работает, пожалуйста, скопируйте &amp; и вставьте следующий URL в ваш браузер: %url%</target>
+            </trans-unit>
+            <trans-unit id="automated_email_dont_answer">
+                <source>automated_email_dont_answer</source>
+                <target>Данное письмо было сгенерировано автоматически. Пожалуйста, не отвечайте на него. Письма, отправленные на этот адрес не читаются.</target>
+            </trans-unit>
+            <trans-unit id="registration.subject">
+                <source>registration.subject</source>
+                <target>Активировать Ваш аккаунт</target>
+            </trans-unit>
+            <trans-unit id="registration.title">
+                <source>registration.title</source>
+                <target>Добро пожалосать, %username%</target>
+            </trans-unit>
+            <trans-unit id="registration.button">
+                <source>registration.button</source>
+                <target>Активировать аккаунт</target>
+            </trans-unit>
+            <trans-unit id="registration.intro">
+                <source>registration.intro</source>
+                <target>Вы зарегистрировались на Kimai time-tracker с электронным письмом% email%. Теперь вам нужно активировать свою учетную запись в течение следующих нескольких часов, до истечения срока действия ссылки.</target>
+            </trans-unit>
+            <trans-unit id="reset.subject">
+                <source>reset.subject</source>
+                <target>Сбросить пароль</target>
+            </trans-unit>
+            <trans-unit id="reset.title">
+                <source>reset.title</source>
+                <target>Что может случиться ...</target>
+            </trans-unit>
+            <trans-unit id="reset.button">
+                <source>reset.button</source>
+                <target>Сбросить пароль</target>
+            </trans-unit>
+            <trans-unit id="reset.intro">
+                <source>reset.intro</source>
+                <target>... забыли пароль? Не волнуйтесь: Kimai поможет восстановить его:</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

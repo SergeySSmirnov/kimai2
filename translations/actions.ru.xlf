@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="ru" datatype="plaintext" original="actions.en.xlf">
+        <body>
+            <trans-unit id="stop">
+                <source>stop</source>
+                <target>Остановить</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>back</source>
+                <target>Назад</target>
+            </trans-unit>
+            <trans-unit id="edit">
+                <source>edit</source>
+                <target>Редактировать</target>
+            </trans-unit>
+            <trans-unit id="trash">
+                <source>trash</source>
+                <target>Удалить</target>
+            </trans-unit>
+            <trans-unit id="report">
+                <source>report</source>
+                <target>Отчеты</target>
+            </trans-unit>
+            <trans-unit id="repeat">
+                <source>repeat</source>
+                <target>Запустить вновь</target>
+            </trans-unit>
+            <trans-unit id="profile-stats">
+                <source>profile-stats</source>
+                <target>Профиль</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>settings</source>
+                <target>Настройки</target>
+            </trans-unit>
+            <trans-unit id="timesheet">
+                <source>timesheet</source>
+                <target>Учёт времени</target>
+            </trans-unit>
+            <trans-unit id="customer">
+                <source>customer</source>
+                <target>Фильтр по Заказчикам</target>
+            </trans-unit>
+            <trans-unit id="project">
+                <source>project</source>
+                <target>Фильтр по Проектам</target>
+            </trans-unit>
+            <trans-unit id="activity">
+                <source>activity</source>
+                <target>Фильтр по Активностям</target>
+            </trans-unit>
+            <trans-unit id="copy">
+                <source>copy</source>
+                <target>Создать копию</target>
+            </trans-unit>
+            <trans-unit id="home">
+                <source>home</source>
+                <target>Домашняя страница</target>
+            </trans-unit>
+            <trans-unit id="create-project">
+                <source>create-project</source>
+                <target>Создать проект</target>
+            </trans-unit>
+            <trans-unit id="create-activity">
+                <source>create-activity</source>
+                <target>Создать активность</target>
+            </trans-unit>
+            <trans-unit id="create-timesheet">
+                <source>create-timesheet</source>
+                <target>Создать запись учёта времени</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>permissions</source>
+                <target>Права доступа команд</target>
+            </trans-unit>
+            <trans-unit id="details">
+                <source>details</source>
+                <target>Показать</target>
+            </trans-unit>
+            <trans-unit id="download">
+                <source>download</source>
+                <target>Скачать</target>
+            </trans-unit>
+            <trans-unit id="invoice.pending">
+                <source>invoice.pending</source>
+                <target>Ожидание оплаты</target>
+            </trans-unit>
+            <trans-unit id="invoice.paid">
+                <source>invoice.paid</source>
+                <target>Счёт оплачен</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

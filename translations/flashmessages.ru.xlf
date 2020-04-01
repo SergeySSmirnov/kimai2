@@ -2,21 +2,33 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
     <file source-language="en" target-language="ru" datatype="plaintext" original="flashmessages.en.xlf">
         <body>
+            <trans-unit id="warning">
+                <source>warning</source>
+                <target>Предупреждение</target>
+            </trans-unit>
             <trans-unit id="timesheet.stop.success">
                 <source>timesheet.stop.success</source>
-                <target>Хронометраж остановлен</target>
+                <target>Запись времени остановлена</target>
             </trans-unit>
             <trans-unit id="timesheet.stop.error">
                 <source>timesheet.stop.error</source>
-                <target>Ошибка - Хронометраж не был остановлен</target>
+                <target>Запись времени не может быть остановлена</target>
             </trans-unit>
             <trans-unit id="timesheet.start.success">
                 <source>timesheet.start.success</source>
-                <target>Хронометраж начат</target>
+                <target>Запись времени начата</target>
             </trans-unit>
             <trans-unit id="timesheet.start.error">
                 <source>timesheet.start.error</source>
-                <target>Ошибка - Хронометраж не был начат</target>
+                <target>Запись времени не может быть начата</target>
+            </trans-unit>
+            <trans-unit id="timesheet.start.exceeded_limit">
+                <source>timesheet.start.exceeded_limit</source>
+                <target>Достигнут предел активных записей времени, сначала остановите хотя бы одно измерение времени работы.</target>
+            </trans-unit>
+            <trans-unit id="timesheet.locked.warning">
+                <source>timesheet.locked.warning</source>
+                <target>Вы редактируете экспортированную запись</target>
             </trans-unit>
             <trans-unit id="action.update.success">
                 <source>action.update.success</source>
@@ -24,7 +36,7 @@
             </trans-unit>
             <trans-unit id="action.update.error">
                 <source>action.update.error</source>
-                <target>Changes could not be saved: %reason%</target>
+                <target>Изменения не могут быть сохранены: %reason%</target>
             </trans-unit>
             <trans-unit id="action.delete.success">
                 <source>action.delete.success</source>
@@ -32,11 +44,11 @@
             </trans-unit>
             <trans-unit id="action.delete.error">
                 <source>action.delete.error</source>
-                <target>Ошибка - Запись не была удалена: %reason%</target>
+                <target>Запись не может быть удалена: %reason%</target>
             </trans-unit>
             <trans-unit id="invoice.first_template">
                 <source>invoice.first_template</source>
-                <target>Прежде чем Вы сможете продолжить, необходимо создать первый образец счет-фактуры</target>
+                <target>Пожалуйста, сначала создайте шаблон счета</target>
             </trans-unit>
         </body>
     </file>
